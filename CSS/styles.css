@@ -28,8 +28,9 @@ hr{
 
 /* class section ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 .top {
-  background-color: #8bd5cb;
+  /* background-color: #8bd5cb; */
   margin:0;
+  background-color: #98C6DD   ;
   text-align: center;
   border: 0;
   padding: 100;
@@ -103,7 +104,7 @@ hr{
 
 }
 .background2{
-  background-color: #f5fac7;
+  background-color: #FAF0CE;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 0;
