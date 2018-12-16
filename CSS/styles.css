@@ -47,7 +47,8 @@ hr{
   position:relative;
   top:4px;
   height: 75%;
-  width: 75%
+  width: 75%;
+  maring-bottom: 0;
 }
 .contact{
   margin:40px auto 60px;
